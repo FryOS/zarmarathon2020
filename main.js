@@ -24,7 +24,7 @@ function getCharCount(row){
             count++;
         }        
     } 
-    return count
+    return count;
 }
 
 
